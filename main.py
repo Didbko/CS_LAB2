@@ -3,9 +3,6 @@ import math
 import struct
 from codecs import decode
 
-int = 12
-binary = format(int, 'b')
-
 
 def addition(num1, num2):
     result = ''
